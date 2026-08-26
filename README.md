@@ -7,8 +7,6 @@
 
   <img height="160" 
   src="https://github-readme-stats.vercel.app/api?username=GGboya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGboya&layout=compact&theme=tokyonight&hide_border=true" />
 
   <img src="https://streak-stats.demolab.com?user=GGboya&theme=tokyonight&hide_border=true" />
 
